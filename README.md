@@ -134,12 +134,6 @@ Sistema de visão computacional desenvolvido com **YOLOv5** para detecção e cl
 O modelo demonstrou boa generalização com 87.5% de acerto no teste, 
 validando os resultados de treinamento (mAP@0.5 de 99.5%).
 
-Consulte a pasta [`docs/results/`](./docs/results/) para:
-- Gráficos de métricas de treinamento
-- Matrizes de confusão
-- Exemplos de predições
-- Curvas de Precision-Recall
-
 
 ## 🔗 Links Úteis
 

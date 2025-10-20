@@ -55,10 +55,6 @@ Sistema de visão computacional desenvolvido com **YOLOv5** para detecção e cl
 │   │   └── labels/
 │   └── test/
 │       └── images/                           # 8 imagens (4 bikes + 4 carros)
-├── docs/
-│   └── results/                              # Resultados dos treinamentos
-│       ├── treino_15_epocas/
-│       └── treino_40_epocas/
 └── README.md
 ```
 
